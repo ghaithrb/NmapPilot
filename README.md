@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="img/czz.png" alt="NmapPilot UI" width="600"/>
+  <img src="img/czz" alt="NmapPilot UI" width="600"/>
 </p>
 
 ---
