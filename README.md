@@ -1,19 +1,22 @@
-
 <h1 align="center">🚀 NmapPilot</h1>
 
 <p align="center">
-  A powerful Go-based network scanning tool that simplifies Nmap usage on Kali Linux.
+  <strong>A powerful Go-based network scanning tool that simplifies Nmap usage on Kali Linux.</strong>
+</p>
+
+<p align="center">
+  <img src="img/czz.png" alt="NmapPilot UI" width="600"/>
 </p>
 
 ---
 
 ## 🔧 Features
 
-- ✅ Auto-detect your local IP address
-- ✅ Choose scan type: quick, full, or custom
-- ✅ Random ASCII logo color each time you run the tool
-- ✅ Displays author tag, current date, and version
-- ✅ Protects source via Go compilation
+- ✅ Auto-detects your local IP address
+- ✅ Choose scan type: ping, quick, aggressive, vuln, or custom
+- ✅ Random ASCII logo color on every run
+- ✅ Displays author info, current time, and version
+- ✅ Secure: Go-compiled binary to protect the source
 
 ---
 
@@ -22,6 +25,7 @@
 ```bash
 git clone https://github.com/ghaithrb/NmapPilot.git
 cd NmapPilot
+go build -o nmap-pilot main.go
 ```
 
 ---
@@ -32,27 +36,27 @@ cd NmapPilot
 ./nmap-pilot
 ```
 
-Follow the on-screen prompts to select the scan type and options.
+Follow the interactive prompts to choose scan type and target.
 
 ---
 
-## 🛡️ GPG Commit Signing
+## 🛡 GPG Commit Signing
 
-All releases are GPG-signed.  
-You will see a ✅ Verified badge on each commit made by @ghaithrb.
+All commits are GPG-signed.  
+Look for the ✅ **Verified** badge next to each commit by [@ghaithrb](https://github.com/ghaithrb).
 
 ---
 
 ## 👤 Developer
 
-- Name: Ghaith Riabi (`@ghaithrb`)
-- Location: Tunisia 🇹🇳
+- **Name**: Ghaith Riabi (`@ghaithrb`)
+- **Location**: Tunisia 🇹🇳
+- **Tools Used**: Go, Nmap, Kali Linux
 
 ---
 
-## ⚖️ License
+## ⚖ License
 
-This project is licensed under the [MIT License](./LICENSE)
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
-
