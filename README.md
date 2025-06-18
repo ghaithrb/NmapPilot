@@ -49,9 +49,9 @@ Look for the ✅ **Verified** badge next to each commit by [@ghaithrb](https://g
 
 ## 👤 Developer
 
-- **Name**: Ghaith Riabi (`@ghaithrb`)
+- **Name**: Ghaith (`@ghaithrb`)
 - **Location**: Tunisia 🇹🇳
-- **Tools Used**: Go, Nmap, Kali Linux
+- **Tools Used**: Nmap, Kali Linux
 
 ---
 
