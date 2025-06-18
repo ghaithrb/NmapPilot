@@ -22,7 +22,6 @@
 ```bash
 git clone https://github.com/ghaithrb/NmapPilot.git
 cd NmapPilot
-go build -o nmap-pilot main.go
 ```
 
 ---
