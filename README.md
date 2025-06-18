@@ -47,7 +47,6 @@ You will see a ✅ Verified badge on each commit made by @ghaithrb.
 ## 👤 Developer
 
 - Name: Ghaith Riabi (`@ghaithrb`)
-- Email: ghaithrb@users.noreply.github.com
 - Location: Tunisia 🇹🇳
 
 ---
