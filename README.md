@@ -33,7 +33,7 @@ go build -o nmap-pilot main.go
 ## 🚀 Usage
 
 ```bash
-./nmap-pilot
+./nmapilot
 ```
 
 Follow the interactive prompts to choose scan type and target.
