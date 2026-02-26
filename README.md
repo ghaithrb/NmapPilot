@@ -1,7 +1,7 @@
 <h1 align="center">🚀 NmapPilot</h1>
 
 <p align="center">
-  <strong>A powerful Go-based network scanning tool that simplifies Nmap usage on Kali Linux</strong>
+  <strong>A powerful Go-based network scanning tool that simplifies Nmap usage on Kali Linux.</strong>
 </p>
 
 <p align="center">
