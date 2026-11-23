@@ -12,7 +12,7 @@
 **NmapPilot** is a lightweight, cross-platform network scanning tool inspired by Nmap.
 It simplifies network reconnaissance by providing a clean terminal-style interface while remaining powerful enough for educational penetration testing labs.
 
-The tool is available for:
+The tool is available for :
 
 * 🐧 Linux/Unix
 * 🪟 Windows 11 
