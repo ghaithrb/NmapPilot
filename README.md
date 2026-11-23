@@ -198,7 +198,7 @@ This tool is intended for:
 
 Do NOT scan networks without proper authorization.
 The developer is not responsible for misuse of this tool.
-
+Maintained and improved regularly
 ---
 
 # 👨‍💻 Author
