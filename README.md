@@ -14,7 +14,7 @@ It simplifies network reconnaissance by providing a clean terminal-style interfa
 
 The tool is available for:
 
-* 🐧 Linux
+* 🐧 Linux/Unix
 * 🪟 Windows
 * 🍎 macOS
 
