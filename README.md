@@ -15,8 +15,8 @@ It simplifies network reconnaissance by providing a clean terminal-style interfa
 The tool is available for:
 
 * 🐧 Linux/Unix
-* 🪟 Windows
-* 🍎 macOS
+* 🪟 Windows 11 
+* 🍎 macOS 
 
 It supports IP scanning, subnet scanning, service discovery, and result exporting.
 
