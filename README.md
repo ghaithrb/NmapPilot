@@ -61,8 +61,8 @@ For advanced scanning (privileged scans), administrator/root permissions may be 
 
 | Operating System | File to Use        | How to Run                 | Requires Admin?   |
 | ---------------- | ------------------ | -------------------------- | ----------------- |
-| 🐧 Linux         | `nmapilot`         | `./nmapilot`               | Yes (recommended) |
-| 🪟 Windows       | `nmapilot.exe`     | Double-click or run in CMD | Yes (recommended) |
+| 🐧 Linux/unix         | `nmapilot`         | `./nmapilot`               | Yes (recommended) |
+| 🪟 Windows 11       | `nmapilot.exe`     | Double-click or run in CMD | Yes (recommended) |
 | 🍎 macOS         | `nmapilot_for_MAC` | `chmod +x` then execute    | Yes (recommended) |
 
 ---
